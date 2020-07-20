@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendonguedes" alt="brendonguedes" /> </p>
 
-- 🔭 I’m currently working on [Corebiz](https://loja.consul.com.br)
+- 🔭 I’m currently working on [Consul - Corebiz](https://loja.consul.com.br)
 
-- 🔭 I’m currently working on [Corebiz](https://www.compracerta.com.br)
+- 🔭 I’m currently working on [Chatbot CompraCerta - Corebiz](https://www.compracerta.com.br)
 
 - 👨‍💻 All of my projects are available at [https://sourcerer.io/brendonguedes](https://sourcerer.io/brendonguedes)
 

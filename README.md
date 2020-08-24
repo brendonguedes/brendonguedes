@@ -33,3 +33,13 @@
 <a href="https://twitter.com/brendonguedess" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brendonguedess" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/brendon guedes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brendon guedes" height="20" width="20" /></a>
 </p>
+
+
+## 😇 My Github Stats:
+
+[![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/csorlandi/csorlandi)
+![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
+</p>

@@ -37,9 +37,9 @@
 
 ## 😇 My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/csorlandi/csorlandi)
+[![Visits Badge](https://badges.pufler.dev/visits/brendonguedes/brendonguedes?style=for-the-badge)](https://github.com/brendonguedes/brendonguedes)
 ![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=brendonguedes&show_icons=true&theme=algolia&line_height=27">
 </p>

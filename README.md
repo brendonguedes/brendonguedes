@@ -29,6 +29,13 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/JavaScript-358%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/CSS-221%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/HTML-73%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/Java-16%20commits-purple.svg" alt=""></a>
+<a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/Gradle-16%20commits-black.svg" alt=""></a>
+<a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/Objective–C-2%20commits-pink.svg" alt=""></a>
+
 <p align="center">
 <a href="https://twitter.com/brendonguedess" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brendonguedess" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/brendon guedes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brendon guedes" height="20" width="20" /></a>

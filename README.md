@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brendon Guedes</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendonguedes" alt="brendonguedes" /> </p>
 
-- 🔭 I’m currently working on [Consul - Corebiz](https://loja.consul.com.br)
-
-- 🔭 I’m currently working on [Chatbot CompraCerta - Corebiz](https://www.compracerta.com.br)
+- 🔭 If you are a [@VTEX](https://developers.vtex.com/vtex-developer-docs/docs/overview-5) developer, use my [extension](https://marketplace.visualstudio.com/items?itemName=brendonguedes.vtex-snippets) to speed up the creation of new blocks in vtex io
 
 - 👨‍💻 All of my projects are available at [https://sourcerer.io/brendonguedes](https://sourcerer.io/brendonguedes)
 
@@ -12,7 +11,7 @@
 
 - 💬 Ask me about **React, HTML and CSS**
 
-- 📫 How to reach me **lordbguedes@gmail.com**
+- 📫 How to reach me **brendonguedes@icloud.com**
 
 - ⚡ Fun fact **I make coffee and play tennis**
 
@@ -35,6 +34,7 @@
 <a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/Java-16%20commits-purple.svg" alt=""></a>
 <a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/Gradle-16%20commits-black.svg" alt=""></a>
 <a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/Objective–C-2%20commits-pink.svg" alt=""></a>
+<a href="https://sourcerer.io/brendonguedes"><img src="https://img.shields.io/badge/TypeScript-2%20commits-green.svg" alt=""></a>
 
 <p align="center">
 <a href="https://twitter.com/brendonguedess" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brendonguedess" height="20" width="20" /></a>
@@ -44,8 +44,8 @@
 
 ## 😇 My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/brendonguedes/brendonguedes?style=for-the-badge)](https://github.com/brendonguedes/brendonguedes)
-![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)
+[![Visits Badge](https://badges.pufler.dev/visits/brendonguedes/brendonguedes?style=for-the-badge)](https://github.com/brendonguedes)
+![Repos Badge](https://badges.pufler.dev/repos/brendonguedes?style=for-the-badge)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=brendonguedes&show_icons=true&theme=algolia&line_height=27">
